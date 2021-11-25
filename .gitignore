@@ -1,0 +1,5 @@
+read-audio-python/__pycache__
+read-audio-python/deepspeech-0.9.3-models.pbmm
+read-audio-python/deepspeech-0.9.3-models.scorer
+node_modules
+.env
